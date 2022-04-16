@@ -1,5 +1,5 @@
 <?php
 
-header("Location: http://127.0.0.1:8000/" . $_POST['name']);
+header("Location: http://87.253.53.148:25565/" . $_POST['name']);
 
 ?>
