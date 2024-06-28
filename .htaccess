@@ -1,4 +1,5 @@
-Options -MultiViews -Indexes +FollowSymLinks
+Options Indexes FollowSymLinks
+Require all granted
 
 <IfModule mod_rewrite.c>
     RewriteEngine On
